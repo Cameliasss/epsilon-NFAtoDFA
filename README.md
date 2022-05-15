@@ -117,8 +117,3 @@ def text_create(DFA):
                     file.write('}'+'\n')
     file.close()
 ```
-
-测试样例
--------
-*一
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
