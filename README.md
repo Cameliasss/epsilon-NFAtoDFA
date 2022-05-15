@@ -76,6 +76,11 @@ def FindClosureOther(state_list,character):
     new_closure=[i for i in _closure if i!='']
     return new_closure
 ```
+>### 格式转化
+>合并状态为DFA
+```
+```
+
 >### 将输出DFA写入txt文件
 ```
 def text_create(DFA):
